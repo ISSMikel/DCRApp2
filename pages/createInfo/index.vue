@@ -98,7 +98,7 @@ async function handleInfoSubmit() {
               <option value="letters">Letters</option>
               <option value="invitation">Invitation</option>
               <option value="temp_file">Temp File</option>
-              <option value="file">File</option>
+              <option value="main_file">Main File</option>
               <option value="cabinet_file">Cabinet File</option>
               <option value="note_for_cabinet">Note for Cabinet</option>
               <option value="draft_note_for_cabinet">DRAFT Note for Cabinet</option>
@@ -110,8 +110,9 @@ async function handleInfoSubmit() {
               <option value="memo">Memo</option>
               <option value="private_confidential">Private/Confidential</option>
               <option value="national_security_council_secretariat">National Security Council Secretariat (NSCS) </option>
-              <option value="form">Form</option>
+              <option value="applications_form">Applications/Form</option>
               <option value="miscellaneous">Miscellaneous</option>
+              <option value="travel_expenses_voucher">Travel Expenses Voucher</option>
             </select>
           </div>
           <div class="font-bold text-lg">
